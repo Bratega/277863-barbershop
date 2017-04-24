@@ -1,0 +1,16 @@
+body {
+    font-size: 14px;
+    line-height: 19px;
+    color: rgb(0,0,0);
+    font-weight: bold;
+    font-family: PTSans NarrowBold, sans-serif;
+}
+
+main>h1 {
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.information .vendor-code {
+    color: rgb(174,174,174);
+}
